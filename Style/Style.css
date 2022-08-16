@@ -37,6 +37,10 @@
     font-weight: 600;
 }
 
+li{
+color:black;    
+}
+
 html{
     border: 2px solid;
     color: #505694;
