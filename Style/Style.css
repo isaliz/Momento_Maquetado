@@ -8,38 +8,40 @@
 .Titulos {
     background-color: gray;
     color: #505694;
-    text-transform: uppercase;
     font-size: 28px;
     font-weight: 600;
+    text-transform: uppercase;   
 }
 
 .SubTitulos {
     background-color: gray;
     color: #505694;
+    font-weight: 600;
     text-transform: uppercase;
     text-align: left;
-    font-weight: 600;
- 
 }
 
 .PiePagina{
-    text-align: center;
     background-color: #505694;
-    color: white;}
+    color: white;
+    text-align: center;    
+}
 
 .Personales{
+    color: black;
     font-style: italic;
     font-weight: 600;
 }
 .Personales2{
+    color: black;
     font-weight: 600;
 }
 
 html{
     border: 2px solid;
     color: #505694;
-    width: 1440px;  
     height: 1024px;
+    width: 1440px;  
 }
 
 #espacio {
