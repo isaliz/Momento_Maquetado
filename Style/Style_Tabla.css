@@ -1,0 +1,55 @@
+li {color: black;
+}
+
+table {
+    border: 2px solid;
+    color: #505694;
+    width: 1440px;  
+    height: 1024px;
+  }
+
+td { width:0%;
+    height:0%;}
+
+th {color: black;
+    height: 0%;
+    width:0%;}
+
+.Titulos {
+    background-color: gray;
+    color: #505694;
+    text-transform: uppercase;
+    font-size: 28px;
+    width:28px;
+    height: 28px;
+  
+}
+
+
+.SubTitulos {
+    background-color: gray;
+    color: #505694;
+    text-transform: uppercase;
+    text-align: left;
+    width:28px;
+    height: 28px;
+}
+
+.PiePagina{background-color: #505694;
+    color: white;}
+
+#espacio {
+    height: 60px;
+}
+
+#foto {background-color: #D8D9DF;}
+
+#Personales{font-style: italic;}
+
+
+
+
+
+
+
+
